@@ -65,7 +65,7 @@ def process_images(cid):
 Strictly follow this formatting:
 1. Output MUST be in a single code block.
 2. IMPORTANT: Start extracting from the VERY FIRST question of the FIRST image and go until the last question. Do not skip the beginning.
-3. NO question numbers or bullet points in the output.
+3. YES question numbers or bullet points in the output.
 4. Options must be a), b), c), and d).
 5. Mark the correct answer with '✅' on the right side.
 6. Provide explanation starting with 'Ex: ' after the options.
