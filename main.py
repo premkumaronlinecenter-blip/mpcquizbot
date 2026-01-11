@@ -7,7 +7,7 @@ from telebot import types
 
 # --- सही कॉन्फ़िगरेशन ---
 GEMINI_API_KEY = "AIzaSyByJOC15zNpSahRWEE9IVAEBgELVy-Pfjw"
-TELEGRAM_BOT_TOKEN = "8231937886:AAHSZc_E4b9BZg4Io-3MxbXFDsS_dgKSJNM"
+TELEGRAM_BOT_TOKEN = "8231937886:AAEVdi2ZVZkQe0AlK3vXxgeVWEwJoO6UHZk"
 
 genai.configure(api_key=GEMINI_API_KEY)
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
